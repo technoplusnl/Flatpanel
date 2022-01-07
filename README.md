@@ -16,3 +16,5 @@ Usage from the directory where the executable is located: 'SerialSend.exe B255' 
 See "ACP-AutoFlatConfig.txt" to find out how to use this with the "acquire auto-flat" function in the ACP Observatory Control software. 
 I replaced the original Alnitak commands with those appropriate for use with SerialSend.exe. In this file I also defindes the standard brightness for each filter and different binnings.
 That way I can shoot series of flats for all of my 7 filters without the need to be there in person.
+
+After building the interface, just test it from the command prompt. You can also use batch files to switch brightness.
